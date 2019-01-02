@@ -1,0 +1,2 @@
+Function类是不是所有函数构造器默认的prototype指向的对象
+Object类又是什么情况下是prototype指向的对象
